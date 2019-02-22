@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/logisight-web/precache-manifest.b78ef4e635977ff1f42cefef075d0920.js"
+  "/logisight-web/precache-manifest.518bde368be415aec4d793665903c6a8.js"
 );
 
 workbox.clientsClaim();
