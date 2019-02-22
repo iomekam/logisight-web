@@ -1,14 +1,14 @@
 {
-  "main.css": "/logisight/static/css/main.24b2c632.chunk.css",
-  "main.js": "/logisight/static/js/main.4c60b6c8.chunk.js",
-  "main.js.map": "/logisight/static/js/main.4c60b6c8.chunk.js.map",
-  "runtime~main.js": "/logisight/static/js/runtime~main.d33d937c.js",
-  "runtime~main.js.map": "/logisight/static/js/runtime~main.d33d937c.js.map",
-  "static/js/2.6debec10.chunk.js": "/logisight/static/js/2.6debec10.chunk.js",
-  "static/js/2.6debec10.chunk.js.map": "/logisight/static/js/2.6debec10.chunk.js.map",
-  "index.html": "/logisight/index.html",
-  "precache-manifest.eea5c834780851313d97e5cfeef50821.js": "/logisight/precache-manifest.eea5c834780851313d97e5cfeef50821.js",
-  "service-worker.js": "/logisight/service-worker.js",
-  "static/css/main.24b2c632.chunk.css.map": "/logisight/static/css/main.24b2c632.chunk.css.map",
-  "static/media/logo.svg": "/logisight/static/media/logo.5d5d9eef.svg"
+  "main.css": "/logisight-web/static/css/main.24b2c632.chunk.css",
+  "main.js": "/logisight-web/static/js/main.39ca34fb.chunk.js",
+  "main.js.map": "/logisight-web/static/js/main.39ca34fb.chunk.js.map",
+  "runtime~main.js": "/logisight-web/static/js/runtime~main.8a0f1b70.js",
+  "runtime~main.js.map": "/logisight-web/static/js/runtime~main.8a0f1b70.js.map",
+  "static/js/2.6debec10.chunk.js": "/logisight-web/static/js/2.6debec10.chunk.js",
+  "static/js/2.6debec10.chunk.js.map": "/logisight-web/static/js/2.6debec10.chunk.js.map",
+  "index.html": "/logisight-web/index.html",
+  "precache-manifest.b78ef4e635977ff1f42cefef075d0920.js": "/logisight-web/precache-manifest.b78ef4e635977ff1f42cefef075d0920.js",
+  "service-worker.js": "/logisight-web/service-worker.js",
+  "static/css/main.24b2c632.chunk.css.map": "/logisight-web/static/css/main.24b2c632.chunk.css.map",
+  "static/media/logo.svg": "/logisight-web/static/media/logo.5d5d9eef.svg"
 }
