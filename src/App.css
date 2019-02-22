@@ -42,6 +42,10 @@ transition: all .2s linear;
     position: relative;
         align-items: center;
     justify-content: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
 }
 
 h2.tagline {
@@ -72,8 +76,10 @@ h2.tagline {
     justify-content: center;
     min-height: 100%;
     flex: 1 1 auto;
+    width: 100%;
     align-self: flex-end;
 }
+
 .outline {
     color: transparent;
     -webkit-text-stroke: 1px white;
@@ -111,12 +117,15 @@ transition: all .2s linear;
     text-align: center;
     background: white;
 }
-
-.about-block p {
-    max-width: 800px;
-    margin: auto;
+.samp {
+    max-width: 120px;
 }
 
+.about-block p {
+    max-width: 700px;
+    margin: auto;
+    line-height: 25px;
+}
 
 .dots-bg {
     background-position: 50%;
