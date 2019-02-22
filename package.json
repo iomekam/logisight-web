@@ -2,7 +2,7 @@
   "name": "logisight-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iomekam.github.io/logisight",
+  "homepage": "http://iomekam.github.io/logisight-web",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",

@@ -7,7 +7,7 @@ class Home extends Component {
       return (
         <div className="livesight-main">
       <nav className="ls-header">
-          <img className="ls-logo" src="/logo.png" /> <div className="nav-links"><a>About</a><Link to='/waitList' className="waitList">WaitList</Link></div>
+          <img className="ls-logo" src="/logo.png" /> <div className="nav-links"><a>About</a><a>WaitList</a></div>
       </nav>
     <div className="landing-header block">
         <div className="livesight-intro">
