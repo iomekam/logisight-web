@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e801be819e9172c41e94",
+    "revision": "ba4d18b2e7dc4f6646e5",
     "url": "/logisight-web/static/css/main.d3a87f8c.chunk.css"
   },
   {
-    "revision": "e801be819e9172c41e94",
-    "url": "/logisight-web/static/js/main.e801be81.chunk.js"
+    "revision": "ba4d18b2e7dc4f6646e5",
+    "url": "/logisight-web/static/js/main.ba4d18b2.chunk.js"
   },
   {
     "revision": "8a0f1b70180970f81d68",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/logisight-web/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "a43986b5b424eccf2f580c95419761ac",
+    "revision": "1b7a8b0a26ec892e47dfd26364c2eeb4",
     "url": "/logisight-web/index.html"
   }
 ];
