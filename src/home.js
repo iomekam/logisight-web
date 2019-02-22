@@ -8,9 +8,9 @@ class Home extends Component {
 
         <div className="livesight-main">
     <nav className="ls-header">
-        <img className="ls-logo" src="/logo.png" /> <div className="nav-links"><a>About</a> <a>Waitlist</a></div>
+        <img className="ls-logo" src="logo.png" /> <div className="nav-links"><a>About</a> <a>Waitlist</a></div>
     </nav>
-  <div className="landing-header block" style={{backgroundImage: 'url(/hb.jpg)'}}>
+  <div className="landing-header block" style={{backgroundImage: 'url(hb.jpg)'}}>
       <div className="livesight-intro">
         <h2 className="tagline">SEE INTO <span className="outline">THE FUTURE</span></h2>
     </div>
@@ -24,7 +24,7 @@ The average person in the US spend 60 hours a year looking for misplaced or out 
 Items that are lost, total to an average of $2.7 billion a year to replace.</p>
   </div>
   <div className="uses-block block">
-    <div className="uses-holder dots-bg" >
+    <div className="uses-holder dots-bg" style={{backgroundImage: 'url(dots.png)'}}>
 
       <div className="uses-explanation">
         <h3>All In One Solution</h3>
