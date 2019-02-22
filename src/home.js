@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import { BrowserRouter, Route, Link } from 'react-router-dom'
+import Waitlist from "./waitlist"
 
 class Home extends Component {
     render() {
@@ -39,9 +40,10 @@ Items that are lost, total to an average of $2.7 billion a year to replace.</p>
       </div>
     </div>
   </div>
-<div className="parallax-very-small para-text" style={{backgroundImage:'url(https://static1.squarespace.com/static/564a03aee4b07c880fedd2a4/582f6e2e37c581f7575ab6a1/5aeb6bfe1ae6cff036d049a4/1525379472144/party+gif7.gif)',
+<div className="parallax-very-small para-text" style={{backgroundImage:'url(https://www.sgs.com/-/media/global/images/structural-website-images/hero-images/logistics-hero.jpg?la=en&hash=9AC1D40CE7812CEA0B53CC0D1F35603A94545AAF)',
       backgroundPosition: 'bottom center'}}>
-  <h1 className="outline" style={{color: 'transparent'}}> Transition Title</h1>
+  <h1 className="outline" style={{color: 'transparent'}} > Waitlist</h1>
+  <div class='lms'> <input type='text' className='wl' placeholder='enter email here'/> <button className='wls'>Submit</button></div>
 </div>
   <footer className="footer" style={{color: 'transparent'}}>
     <h1>LogiSight 2019 </h1>

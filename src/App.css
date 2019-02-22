@@ -400,6 +400,39 @@ transition: all .2s linear;
     color: #fff;
     padding: 20px;
     text-align: center;
+    flex-flow: row wrap;
+}
+
+.lms {
+    min-width: 100%;
+    margin-bottom: 50px;
+}
+
+
+input.wl {
+    background: transparent;
+    border: none;
+    min-width: 300px;
+    border-bottom: solid 1px white;
+    font-size: 20px;
+    font-weight: 200;
+    color: white;
+}
+
+input.wl::placeholder {
+    color: #ffffffb5;
+}
+
+
+button.wls {
+    border: none;
+    background: transparent;
+    color: white;
+    font-size: 17px;
+    text-transform: capitalize;
+    border-radius: 3px;
+    border: solid 2px white;
+    padding: 4px 20px;
 }
 
 nav.ls-header {
