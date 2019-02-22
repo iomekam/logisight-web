@@ -270,7 +270,7 @@ transition: all .2s linear;
     background: #ff6500;
     display: block;
     height: 8px;
-    background: -moz-linear-gradient(to left,rgba(22, 255, 110, 0.9019607843137255) 0%,rgba(251, 98, 24, 0.8392156862745098) 100%);
+    /*background: -moz-linear-gradient(to left,rgba(22, 255, 110, 0.9019607843137255) 0%,rgba(251, 98, 24, 0.8392156862745098) 100%);
     background: -webkit-linear-gradient(to left,rgba(22, 255, 110, 0.9019607843137255) 0%,rgba(251, 98, 24, 0.8392156862745098) 100%);
     /* background: linear-gradient(to left,rgb(22, 255, 110) 0%,rgb(251, 98, 24) 100%); */
     max-width: 30px;
