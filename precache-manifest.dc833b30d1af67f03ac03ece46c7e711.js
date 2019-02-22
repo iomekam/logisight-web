@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/logisight-web/static/js/runtime~main.8a0f1b70.js"
   },
   {
-    "revision": "1565f8132d79f31d9b75",
-    "url": "/logisight-web/static/js/main.1565f813.chunk.js"
+    "revision": "614574c1726e9a5ded44",
+    "url": "/logisight-web/static/js/main.614574c1.chunk.js"
   },
   {
     "revision": "573698287b10209aaf23",
     "url": "/logisight-web/static/js/2.57369828.chunk.js"
   },
   {
-    "revision": "1565f8132d79f31d9b75",
-    "url": "/logisight-web/static/css/main.efcc0d42.chunk.css"
+    "revision": "614574c1726e9a5ded44",
+    "url": "/logisight-web/static/css/main.6a9fd99f.chunk.css"
   },
   {
-    "revision": "a4e9d75e43794d74733842e36a013d7a",
+    "revision": "aece119a3c1d4cdbe94482e8288489e1",
     "url": "/logisight-web/index.html"
   }
 ];
